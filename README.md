@@ -15,6 +15,6 @@ starting with Parity 1.5
 - Finally `sh start.sh`
 
 This will start and connect 2 nodes.  You can see the accounts for use in the
-`accounts.txt` file.
+`accounts.txt` file.  Only 1 is funded.
 
-Note: Vagrant is setup to share the `setup` folder with your host machine
+Note: Vagrant is configured to share the `setup` folder with your host machine
